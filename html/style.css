@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;
+  }
+
+  .table tr
+  {
+      padding: 20%;
+      background: rgb(43, 27, 58)
+  }
