@@ -2,8 +2,18 @@ body {
     background-color: lightblue;
   }
 
-  .table tr
+  
+  .table
   {
-      padding: 20%;
-      background: rgb(43, 27, 58)
+      background-color: black;
+      
+      
+      border-radius: 20px;
+      border-width: 20px;
+  }
+  .table thead th , .table tbody td
+  {
+      padding: 20px;
+      text-align: center;
+      
   }
